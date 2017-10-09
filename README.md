@@ -6,4 +6,9 @@
 
 ## feature
 
+Start feature:
+
     git flow feature start readme
+
+Work and commit changes
+
