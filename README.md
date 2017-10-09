@@ -15,5 +15,3 @@ Work and commit changes
 Finish feature
 
     git flow feature finish <feature>
-
-Open a pull request to feature branch.
